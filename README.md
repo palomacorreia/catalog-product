@@ -8,3 +8,5 @@ O projeto contém os seguintes módulos:
 - product-catalog
 - shopping-cart
 - gateway
+
+![alt text](https://raw.githubusercontent.com/palomacorreia/microsservices-product/master/product-catalog.png)
